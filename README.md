@@ -33,6 +33,7 @@ Welcome to [Google-Books-Search-App](https://github.com/BGitana/Google-Books-Sea
 * [Google Books API](https://developers.google.com/books/) - to search for big data books  
 * [jQuery](https://jquery.com/) - JavaScript library for DOM traversal and manipulation
 * [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started) - Asynchronous JavaScript and XML used to perform a callback, making a quick round trip to and from the server to retrieve and/or save data without posting the entire page back to the server
+* [Mongoose](http://mongoosejs.com/docs/) - an Object Document Mapper (ODM) JavaScript library used to store, save, delete comments and articles mapped to a MongoDB
 * [Body-Parser](https://www.npmjs.com/package/inquirer) - middleware used to extract the body from the incoming requests
 * [Request](https://www.npmjs.com/package/request) - the simplest way possible to make http calls
 * [Bootstrap](https://www.bootstrapcdn.com/) - component library for a front-end responsive framework
