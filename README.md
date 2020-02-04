@@ -1,4 +1,4 @@
-# Google Books Search App **:books:**
+# Google Books App **:books:**
 **MERN** - MongoDB, Express, React-based, Node and Google Books search
 
 ### Overview
